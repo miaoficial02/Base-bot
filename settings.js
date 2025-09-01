@@ -1,7 +1,7 @@
 const fs = require("fs");
 const chalk = require("chalk");
 
-global.owner = ["5213332329453"]; //Cambia este número por el tuyo
+global.owner = ["923256941884"]; //Cambia este número por el tuyo
 global.sessionName = "lurus_session";
 global.version = "v1.0.0 | Mini";
 global.namebot = "Ai Lurus - Mini";
