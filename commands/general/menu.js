@@ -47,12 +47,12 @@ module.exports = {
       }
     });
 
-    let menu = `╭───❮ *Menú de comandos* ❯───╮
+    let menu = `╭──❮ *Menú de comandos* ❯──╮
 │
 │  ${ucapan}, *${m.pushName || "Usuario"}*
 │
 │  *Mini Lurus*
-│  Creador  : +52 33 3232 9453
+│  Creador  : 𝐂𝐡𝐢𝐧𝐚 🇨🇳🔥
 │  Versión  : ${version}
 │  Motor    : Baileys
 │
@@ -67,7 +67,7 @@ module.exports = {
       menu += `│\n`;
     }
 
-    menu += `╰─────────────────────╯`;
+    menu += `╰─────────────────╯`;
 
     await client.sendMessage(
       m.chat,
