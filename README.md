@@ -38,7 +38,7 @@ Descargas rápidas:
 ```bash
 apt install git -y
 apt install nodejs -y
-git clone https://github.com/miaoficial02/Mini_WaBot.git
-cd Mini_WaBot
+git clone https://github.com/miaoficial02/Base_WaBot.git
+cd Base_WaBot
 npm install
 node index.js
