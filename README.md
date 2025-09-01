@@ -2,7 +2,7 @@
 > Versión simple de Lurus Bot, creada como base para desarrolladores que desean iniciar su propio bot de WhatsApp desde cero.
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/AzamiJs" width="220px"/>
+  <img src="https://avatars.githubusercontent.com/miaoficial02" width="220px"/>
 </p>
   
 
@@ -38,7 +38,7 @@ Descargas rápidas:
 ```bash
 apt install git -y
 apt install nodejs -y
-git clone https://github.com/AzamiJs/Mini_WaBot.git
+git clone https://github.com/miaoficial02/Mini_WaBot.git
 cd Mini_WaBot
 npm install
 node index.js
